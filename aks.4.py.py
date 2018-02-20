@@ -1,5 +1,5 @@
-sam = input("Enter a character: ")
-if((sam>='a' and sam<='z') or (sam>='A' and sam<='Z')):
-    print(sam, "is an Alphabet")
+aks = input("Enter a character: ")
+if((aks>='a' and aks<='z') or (aks>='A' and aks<='Z')):
+    print(aks, "is an Alphabet")
 else:
-    print(sam, "is not an Alphabet")
+    print(aks, "is not an Alphabet")
